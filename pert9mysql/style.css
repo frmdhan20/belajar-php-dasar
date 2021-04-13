@@ -1,0 +1,27 @@
+h1{
+	font-family: consolas;
+	font-weight: bold;
+	font-size: 37px;
+}
+
+body{
+	background-image: url(img/rr.png);
+}
+
+th{
+	background-color: aqua;
+	font-family: arial;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+td{
+	background-color: yellow;
+	font-family: mvboli;
+	font-size: 20px;	
+}
+
+a{
+	font-family: mvboli;
+	font-size: 18px;
+}

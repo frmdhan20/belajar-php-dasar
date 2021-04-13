@@ -1,0 +1,14 @@
+h1{
+	font-family: consolas;
+	font-size: 44px;	 
+	font-style: italic;
+	font-weight: bold;
+}
+
+body{
+	background-image: url(img/rr.png);
+}
+
+form{
+	font-family: consolas;
+}

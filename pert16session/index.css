@@ -1,0 +1,29 @@
+  h1{
+	font-family: consolas;
+	font-weight: bold;
+	font-size: 50px;
+	font-style: italic;
+}
+
+body{
+	background-image: url(img/ft.png);
+}
+
+th{
+	background-color: aqua;
+	font-family: arial;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+td{
+	background-color: yellow;
+	font-family: mvboli;
+	font-size: 22px;	
+}
+
+a{
+	font-family: mvboli;
+	font-size: 18px;
+	margin: auto;
+}
